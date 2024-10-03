@@ -2,7 +2,7 @@
 Batch - AUGUST Batch 4
 All Task of CODSOFT Internship
 PYTHON PROGRAMMING
-# Project Title
+# CODSOFT_INTERNSHIP
 
 ## Author
 **Hritik Ranjan**
@@ -65,7 +65,7 @@ To run these projects, ensure you have Python installed on your system. Follow t
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/hritikranjan1/project_name.git
+   git clone https://github.com/hritikranjan1/CODSOFT_INTERNSHIP.git
    cd project_name
 ## Usage
 - Calculator
